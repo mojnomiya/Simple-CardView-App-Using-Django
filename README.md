@@ -17,7 +17,7 @@ Follow these steps to run the Django project locally:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 'url'
+   git clone https://github.com/mojnomiya/Simple-CardView-App-Using-Django.git
    ```
 
 2. Navigate to the project directory:
