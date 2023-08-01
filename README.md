@@ -21,9 +21,12 @@ Follow these steps to run the Django project locally:
    ```
 
 2. Navigate to the project directory:
+Rename Simple CardView Django App Directory name to assignment_1 or in your favorite name. This is the BASE_DIR of the project.
 
    ```bash
    cd assignment_1
+   or 
+   cd your_preferred_name
    ```
 
 3. Create a virtual environment (optional but recommended):
